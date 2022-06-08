@@ -1,0 +1,3 @@
+# Asssign multiple variables in just one line
+
+one, two, three, four = 1, 2, 3, 4
