@@ -19,4 +19,7 @@
 - Extremamente útil para se trabalhar com projetos que utilizam bibliotecas com versões diferentes
 
 ### Como usar
-python -m venv .
+
+- pip freeze > requirements.txt
+- python -m venv . ( criar ambiente virtual)
+- pip install -r requirements.txt
